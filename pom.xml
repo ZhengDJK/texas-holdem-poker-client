@@ -8,5 +8,12 @@
     <artifactId>texas-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.zheng.poker</groupId>
+            <artifactId>texas</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
